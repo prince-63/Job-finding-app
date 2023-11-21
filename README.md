@@ -1,6 +1,6 @@
 # Job-finding-app
 
-This is a React Native app that helps users find jobs in their preferred location and category. The app uses the [Job Search API](https://www.jobsearchapi.com/) to fetch the latest job listings from various sources. Users can view the job details, save their favorite jobs, and apply for them directly from the app.
+This is a React Native app that helps users find jobs in their preferred location and category. The app uses  to fetch the latest job listings from various sources. Users can view the job details, save their favorite jobs, and apply for them directly from the app.
 
 ## Features
 

@@ -21,9 +21,3 @@ To run this app, you need to have [Node.js](https://nodejs.org/en/) and [Expo CL
 - Install the dependencies: `npm install`
 - Start the app: `expo start`
 - Scan the QR code with the Expo app on your phone or use a simulator to run the app.
-
-Source: Conversation with Bing, 11/21/2023
-(1) GitHub - prince-63/Job-finding-app. https://github.com/prince-63/Job-finding-app.
-(2) Security Overview · prince-63/Job-finding-app · GitHub. https://github.com/prince-63/Job-finding-app/security.
-(3) job-finder · GitHub Topics · GitHub. https://github.com/topics/job-finder.
-(4) Releases · prince-63/Job-finding-app · GitHub. https://github.com/prince-63/Job-finding-app/releases.
